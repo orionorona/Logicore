@@ -1,0 +1,4 @@
+repository "SwordQuestt@noyyuh@cloud"
+  path "/"
+    br "/main"
+    co "/main"
